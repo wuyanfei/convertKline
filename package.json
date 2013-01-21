@@ -1,0 +1,16 @@
+{
+  "name": "ConvertKline",
+  "version": "0.1.0",
+  "description": "ConvertKline",
+  "author": "wuyanfei<wuyanfei58@gmail.com>",
+  "dependencies": {
+    "express": ">= 2.5.2",
+    "underscore": ">= 1.2.3",
+    "request": ">= 2.2.0",
+    "async": ">= 0.1.18",
+    "redis": ">= 0.7.2"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
